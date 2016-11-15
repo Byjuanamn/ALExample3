@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0810"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1EBCB11B0000000000000000"
+               BlueprintIdentifier = "BFE4CFAE0000000000000000"
                BuildableName = "ALExample3.app"
                BlueprintName = "ALExample3"
                ReferencedContainer = "container:ALExample3.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1EBCB11B0000000000000000"
+            BlueprintIdentifier = "BFE4CFAE0000000000000000"
             BuildableName = "ALExample3.app"
             BlueprintName = "ALExample3"
             ReferencedContainer = "container:ALExample3.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1EBCB11B0000000000000000"
+            BlueprintIdentifier = "BFE4CFAE0000000000000000"
             BuildableName = "ALExample3.app"
             BlueprintName = "ALExample3"
             ReferencedContainer = "container:ALExample3.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1EBCB11B0000000000000000"
+            BlueprintIdentifier = "BFE4CFAE0000000000000000"
             BuildableName = "ALExample3.app"
             BlueprintName = "ALExample3"
             ReferencedContainer = "container:ALExample3.xcodeproj">

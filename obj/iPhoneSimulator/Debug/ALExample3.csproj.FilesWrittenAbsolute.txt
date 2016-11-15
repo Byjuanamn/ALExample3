@@ -1,0 +1,17 @@
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/Info.plist
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/optimized/
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/bin/iPhoneSimulator/Debug/ALExample3.exe.mdb
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/bin/iPhoneSimulator/Debug/ALExample3.exe
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ALExample3.exe
+/Users/byjuanmn/CloudStation/Formación/FAM Auto Layout/Code/ALExample3/ALExample3/obj/iPhoneSimulator/Debug/ALExample3.exe.mdb
